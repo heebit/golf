@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io/fs"
 	"log"
+	"net/http"
 	"os"
 	"path/filepath"
 )
@@ -57,4 +58,16 @@ func GetOpenFile(filePath string) (*os.File, error) {
 		return nil, fmt.Errorf("error opening file %s: %w", filePath, err)
 	}
 	return file, nil
+}
+
+func DawnloadFile(url string) (*http.Response, error) {
+	resp, err := http.Get(url)
+	if err != nil {
+		return nil, err
+	}
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("failed to download %s: %s", url, resp.Status)
+	}
+	return resp, nil
 }

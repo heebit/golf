@@ -2,8 +2,8 @@ package utils
 
 import (
 	"fmt"
+
 	"io"
-	"net/http"
 	"os"
 
 	"github.com/PuerkitoBio/goquery"
@@ -12,20 +12,16 @@ import (
 func DownloadHTMLAsFile(url, dirName, fileName string) error {
 	MustCreateDirectory(dirName)
 
-	resp, err := http.Get(url)
+	resp, err := DawnloadFile(url)
+
 	if err != nil {
-		return err
+		return fmt.Errorf("error downloading file from %s: %w", url, err)
 	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("failed to download %s: %s", url, resp.Status)
-	}
-
 	outputFile, err := CreateFile(dirName, fileName, ".html")
 	if err != nil {
 		return err
 	}
+	defer resp.Body.Close()
 
 	defer outputFile.Close()
 	_, err = io.Copy(outputFile, resp.Body)
@@ -43,4 +39,3 @@ func GetHtmlContent(file *os.File) (*goquery.Document, error) {
 	}
 	return doc, nil
 }
-	
