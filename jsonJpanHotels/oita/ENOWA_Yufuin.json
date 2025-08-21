@@ -1,1 +1,26 @@
-{"title": "ENOWA_Yufuin", "address": "544 Kawakami, Yufuincho, Yufu, Japan", "rooms": "19 Rooms", "style": "Modern Design & Quiet", "price": "€891"}
+{
+  "title": "ENOWA_Yufuin",
+  "address": "544 Kawakami, Yufuincho, Yufu, Japan",
+  "rooms": "19 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417430.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417431.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417432.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417433.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417434.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417435.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417436.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417437.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417438.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417439.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417440.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417441.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417442.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417443.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417444.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417445.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417446.jpg"
+  ],
+  "price": "€891"
+}

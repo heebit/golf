@@ -1,1 +1,19 @@
-{"title": "Oyado_The_Earth", "address": "Ryunosu, Nakanoyama, Ijikacho, Mie Prefecture, Japan", "rooms": "16 Rooms", "style": "Contemporary Classic & Quiet", "price": "On request only"}
+{
+  "title": "Oyado_The_Earth",
+  "address": "Ryunosu, Nakanoyama, Ijikacho, Mie Prefecture, Japan",
+  "rooms": "16 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181150.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181151.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181152.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181153.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181154.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181155.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181156.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181157.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181158.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181159.jpg"
+  ],
+  "price": "On request only"
+}

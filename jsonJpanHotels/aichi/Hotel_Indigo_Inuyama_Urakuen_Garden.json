@@ -1,1 +1,21 @@
-{"title": "Hotel_Indigo_Inuyama_Urakuen_Garden", "address": "103-1 Inuyama Kitakoken, Inuyama, Japan", "rooms": "156 Rooms", "style": "Modern Design & Quiet", "price": "€145"}
+{
+  "title": "Hotel_Indigo_Inuyama_Urakuen_Garden",
+  "address": "103-1 Inuyama Kitakoken, Inuyama, Japan",
+  "rooms": "156 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329117.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329118.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329119.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329120.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329121.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329122.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329123.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329124.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329125.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329126.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329127.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1329128.jpg"
+  ],
+  "price": "€145"
+}

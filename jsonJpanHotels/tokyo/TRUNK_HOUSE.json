@@ -1,1 +1,24 @@
-{"title": "TRUNK_HOUSE", "address": "3 Kagurazaka, Shinjuku City, Tokyo, Japan", "rooms": "1 Rooms", "style": "Cutting-Edge & Lively", "price": "€3,900"}
+{
+  "title": "TRUNK_HOUSE",
+  "address": "3 Kagurazaka, Shinjuku City, Tokyo, Japan",
+  "rooms": "1 Rooms",
+  "style": "Cutting-Edge & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445987.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445988.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445989.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445990.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445991.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445992.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445993.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445994.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445995.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445996.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445997.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445998.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1445999.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1446000.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1446001.jpg"
+  ],
+  "price": "€3,900"
+}

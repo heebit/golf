@@ -1,1 +1,22 @@
-{"title": "Mesm_Tokyo", "address": "1-10-30 Kaigan, Minato-ku, Tokyo, Japan", "rooms": "265 Rooms", "style": "Cutting-Edge & Happening", "price": "€558"}
+{
+  "title": "Mesm_Tokyo",
+  "address": "1-10-30 Kaigan, Minato-ku, Tokyo, Japan",
+  "rooms": "265 Rooms",
+  "style": "Cutting-Edge & Happening",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361810.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361811.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361812.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361813.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361814.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361815.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361816.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361817.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361818.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361819.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361820.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361821.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1361822.jpg"
+  ],
+  "price": "€558"
+}

@@ -1,1 +1,18 @@
-{"title": "Tune_Stay_Kyoto", "address": "708 Ebisunocho, Shimogyo-ku, Kyoto Prefecture, Japan", "rooms": "140 Rooms", "style": "Cutting-Edge & Happening", "price": "€53"}
+{
+  "title": "Tune_Stay_Kyoto",
+  "address": "708 Ebisunocho, Shimogyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "140 Rooms",
+  "style": "Cutting-Edge & Happening",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255784.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255785.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255786.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255787.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255788.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255789.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255790.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255588.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255589.jpg"
+  ],
+  "price": "€53"
+}

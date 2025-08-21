@@ -1,1 +1,23 @@
-{"title": "Nikko_Style_Niseko_HANAZONO", "address": "HANAZONO-1128179, 328-51 Aza Iwaobetsu, Kutchan-cho, Abuta-gun, Kutchan, Japan", "rooms": "234 Rooms", "style": "Modern Design & Lively", "price": "€96"}
+{
+  "title": "Nikko_Style_Niseko_HANAZONO",
+  "address": "HANAZONO-1128179, 328-51 Aza Iwaobetsu, Kutchan-cho, Abuta-gun, Kutchan, Japan",
+  "rooms": "234 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477250.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477251.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477252.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477253.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477254.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477255.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477256.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477257.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477258.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477259.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477260.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477261.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477262.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477263.jpg"
+  ],
+  "price": "€96"
+}

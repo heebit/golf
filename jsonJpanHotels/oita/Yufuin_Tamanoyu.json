@@ -1,1 +1,19 @@
-{"title": "Yufuin_Tamanoyu", "address": "〒879-5197, 1 Kawakami, Yufuin-cho, Yufu, Japan", "rooms": "16 Rooms", "style": "Contemporary Classic & Quiet", "price": "On request only"}
+{
+  "title": "Yufuin_Tamanoyu",
+  "address": "〒879-5197, 1 Kawakami, Yufuin-cho, Yufu, Japan",
+  "rooms": "16 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433166.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433159.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433161.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433157.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433158.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433160.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433162.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433163.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433164.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433165.jpg"
+  ],
+  "price": "On request only"
+}

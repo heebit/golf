@@ -1,1 +1,20 @@
-{"title": "Hoshinoya_Taketomi_Island", "address": "Taketomi  907-1101, Okinawa Prefecture, Japan", "rooms": "48 Rooms", "style": "Contemporary Classic & Secluded", "price": "On request only"}
+{
+  "title": "Hoshinoya_Taketomi_Island",
+  "address": "Taketomi  907-1101, Okinawa Prefecture, Japan",
+  "rooms": "48 Rooms",
+  "style": "Contemporary Classic & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093106.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093107.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093108.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093109.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093110.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093111.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093112.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093113.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093114.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093115.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1093116.jpg"
+  ],
+  "price": "On request only"
+}

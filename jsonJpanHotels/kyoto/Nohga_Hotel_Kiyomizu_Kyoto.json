@@ -1,1 +1,23 @@
-{"title": "Nohga_Hotel_Kiyomizu_Kyoto", "address": "4-450-1 Gojohashihigashi, Higashiyama-ku, Kyoto Prefecture, Japan", "rooms": "207 Rooms", "style": "Modern Design & Lively", "price": "€156"}
+{
+  "title": "Nohga_Hotel_Kiyomizu_Kyoto",
+  "address": "4-450-1 Gojohashihigashi, Higashiyama-ku, Kyoto Prefecture, Japan",
+  "rooms": "207 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314541.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314548.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314545.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314542.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314547.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314546.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314543.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314544.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314549.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314552.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314550.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314553.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314551.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1314554.jpg"
+  ],
+  "price": "€156"
+}

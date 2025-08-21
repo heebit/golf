@@ -1,1 +1,17 @@
-{"title": "Seikoro_Ryokan", "address": "467 Nishitachibanacho, Higashiyama-ku, Kyoto Prefecture, Japan", "rooms": "22 Rooms", "style": "Traditional Elegance & Quiet", "price": "No rooms available"}
+{
+  "title": "Seikoro_Ryokan",
+  "address": "467 Nishitachibanacho, Higashiyama-ku, Kyoto Prefecture, Japan",
+  "rooms": "22 Rooms",
+  "style": "Traditional Elegance & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311378.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311379.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311380.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311381.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311382.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311383.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311384.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1311385.jpg"
+  ],
+  "price": "No rooms available"
+}

@@ -1,1 +1,21 @@
-{"title": "Four_Seasons_Hotel_Kyoto", "address": "Higashiyama-ku Myohoin Maekawacho 445-3, Kyoto Prefecture, Japan", "rooms": "180 Rooms", "style": "Modern Design & Lively", "price": "€973"}
+{
+  "title": "Four_Seasons_Hotel_Kyoto",
+  "address": "Higashiyama-ku Myohoin Maekawacho 445-3, Kyoto Prefecture, Japan",
+  "rooms": "180 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390123.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390124.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390125.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390126.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390127.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390128.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390129.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390130.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390131.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390132.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390133.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1390134.jpg"
+  ],
+  "price": "€973"
+}

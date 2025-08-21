@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"fmt"
+	"encoding/json"
 	"log"
 	"os"
 	"path/filepath"
@@ -13,6 +13,15 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/chromedp/chromedp"
 )
+
+type Hotel struct {
+	Title   string   `json:"title"`
+	Address string   `json:"address"`
+	Rooms   string   `json:"rooms"`
+	Style   string   `json:"style"`
+	Images  []string `json:"images"`
+	Price   string   `json:"price"`
+}
 
 func main() {
 	rootDir := "/Users/ivanivanov/Desktop/go/golf/japan_hotels"
@@ -60,6 +69,13 @@ func main() {
 					Find(".data-sheet__block--text").Last().Text(),
 			)
 
+			var images []string
+			doc.Find("#js-owl-carousel-gallery img").Each(func(i int, s *goquery.Selection) {
+				if src, exists := s.Attr("src"); exists {
+					images = append(images, src)
+				}
+			})
+
 			price := ""
 			err := chromedp.Run(ctx,
 				chromedp.Navigate("file://"+file),
@@ -72,20 +88,29 @@ func main() {
 
 			title = utils.SanitizeFileName(title)
 
+			hotel := Hotel{
+				Title:   title,
+				Address: address,
+				Rooms:   rooms,
+				Style:   style,
+				Price:   price,
+				Images:  images,
+			}
+
 			jsonFile, err := utils.CreateFile(targetDir, title, ".json")
 			if err != nil {
 				panic(err)
 			}
 			defer jsonFile.Close()
 
-			jsonData := fmt.Sprintf(`{"title": "%s", "address": "%s", "rooms": "%s", "style": "%s", "price": "%s"}`,
-				title, address, rooms, style, price,
-			)
-
-			_, err = jsonFile.WriteString(jsonData)
-			if err != nil {
+			encoder := json.NewEncoder(jsonFile)
+			encoder.SetIndent("", "  ")
+			encoder.SetEscapeHTML(false) 
+			if err := encoder.Encode(hotel); err != nil {
 				panic(err)
 			}
+
+			
 		})
 	}
 

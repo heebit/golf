@@ -1,1 +1,21 @@
-{"title": "Ascott_Marunouchi_Tokyo", "address": "1-1-1 Otemachi, Chiyoda-ku, Tokyo, Japan", "rooms": "130 Rooms", "style": "Contemporary Classic & Lively", "price": "€480"}
+{
+  "title": "Ascott_Marunouchi_Tokyo",
+  "address": "1-1-1 Otemachi, Chiyoda-ku, Tokyo, Japan",
+  "rooms": "130 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073929.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073930.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073931.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073932.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073933.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073934.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073935.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073936.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073937.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073938.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073939.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1073940.jpg"
+  ],
+  "price": "€480"
+}

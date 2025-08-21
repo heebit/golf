@@ -1,1 +1,16 @@
-{"title": "Arcana_Izu", "address": "1662 Yugashima, Izu, Japan", "rooms": "16 Rooms", "style": "Cutting-Edge & Secluded", "price": "No rooms available"}
+{
+  "title": "Arcana_Izu",
+  "address": "1662 Yugashima, Izu, Japan",
+  "rooms": "16 Rooms",
+  "style": "Cutting-Edge & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180821.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180822.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180823.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180824.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180825.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180826.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180827.jpg"
+  ],
+  "price": "No rooms available"
+}

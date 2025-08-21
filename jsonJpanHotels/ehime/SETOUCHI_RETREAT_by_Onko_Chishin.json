@@ -1,1 +1,20 @@
-{"title": "SETOUCHI_RETREAT_by_Onko_Chishin", "address": "794-1 Yanaidanimachi, Matsuyama, Japan", "rooms": "7 Rooms", "style": "Cutting-Edge & Secluded", "price": "No rooms available"}
+{
+  "title": "SETOUCHI_RETREAT_by_Onko_Chishin",
+  "address": "794-1 Yanaidanimachi, Matsuyama, Japan",
+  "rooms": "7 Rooms",
+  "style": "Cutting-Edge & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235066.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1403376.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235067.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235068.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235069.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235070.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235071.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235072.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235073.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235074.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1235075.jpg"
+  ],
+  "price": "No rooms available"
+}

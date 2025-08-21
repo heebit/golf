@@ -1,1 +1,20 @@
-{"title": "Araya_Totoan", "address": "18-119 Yamashiro Onsen, Kaga, Japan", "rooms": "17 Rooms", "style": "Traditional Elegance & Quiet", "price": "€460"}
+{
+  "title": "Araya_Totoan",
+  "address": "18-119 Yamashiro Onsen, Kaga, Japan",
+  "rooms": "17 Rooms",
+  "style": "Traditional Elegance & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267430.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267431.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267432.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267433.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267434.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267435.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267436.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267437.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267438.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267439.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1267440.jpg"
+  ],
+  "price": "€460"
+}

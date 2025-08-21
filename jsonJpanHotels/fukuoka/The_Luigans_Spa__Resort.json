@@ -1,1 +1,16 @@
-{"title": "The_Luigans_Spa__Resort", "address": "18-25 Saitozaki, Higashi-ku, Fukuoka, Japan", "rooms": "98 Rooms", "style": "Contemporary Classic & Lively", "price": "€122"}
+{
+  "title": "The_Luigans_Spa__Resort",
+  "address": "18-25 Saitozaki, Higashi-ku, Fukuoka, Japan",
+  "rooms": "98 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234726.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234728.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234727.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234729.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234730.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234731.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1234732.jpg"
+  ],
+  "price": "€122"
+}

@@ -1,1 +1,17 @@
-{"title": "Taniya", "address": "大新町１丁目５５, 1 Chome-55 Oshinmachi , Gifu 506-0851, Takayama, Japan", "rooms": "2 Rooms", "style": "Traditional Elegance & Secluded", "price": "No rooms available"}
+{
+  "title": "Taniya",
+  "address": "大新町１丁目５５, 1 Chome-55 Oshinmachi , Gifu 506-0851, Takayama, Japan",
+  "rooms": "2 Rooms",
+  "style": "Traditional Elegance & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437147.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437148.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437149.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437150.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437151.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437152.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437153.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1437154.jpg"
+  ],
+  "price": "No rooms available"
+}

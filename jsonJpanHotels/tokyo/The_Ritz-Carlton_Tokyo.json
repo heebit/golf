@@ -1,1 +1,21 @@
-{"title": "The_Ritz-Carlton_Tokyo", "address": "9-7-1 Akasaka, Minato-ku, Tokyo, Japan", "rooms": "248 Rooms", "style": "Contemporary Classic & Lively", "price": "€852"}
+{
+  "title": "The_Ritz-Carlton_Tokyo",
+  "address": "9-7-1 Akasaka, Minato-ku, Tokyo, Japan",
+  "rooms": "248 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071442.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071444.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071445.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071446.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071447.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071449.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071450.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071451.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071452.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071453.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071454.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1071455.jpg"
+  ],
+  "price": "€852"
+}

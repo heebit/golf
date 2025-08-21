@@ -1,1 +1,21 @@
-{"title": "Yoshida_Sanso", "address": "59-1 Yoshida Shimoojicho, Sakyo-ku, Kyoto Prefecture, Japan", "rooms": "5 Rooms", "style": "Traditional Elegance & Quiet", "price": "On request only"}
+{
+  "title": "Yoshida_Sanso",
+  "address": "59-1 Yoshida Shimoojicho, Sakyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "5 Rooms",
+  "style": "Traditional Elegance & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359086.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359087.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359088.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359089.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359090.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359091.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359092.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359093.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359094.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359095.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359096.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359097.jpg"
+  ],
+  "price": "On request only"
+}

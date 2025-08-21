@@ -1,1 +1,22 @@
-{"title": "Hotel_Kanra_Kyoto", "address": "190 Kitamachi, Shimogyo-ku, Kyoto Prefecture, Japan", "rooms": "68 Rooms", "style": "Contemporary Classic & Lively", "price": "€265"}
+{
+  "title": "Hotel_Kanra_Kyoto",
+  "address": "190 Kitamachi, Shimogyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "68 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082004.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082005.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082006.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082007.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082008.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082009.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082010.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082011.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082012.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082013.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082014.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082015.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1082016.jpg"
+  ],
+  "price": "€265"
+}

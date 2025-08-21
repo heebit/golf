@@ -1,1 +1,17 @@
-{"title": "Gosoku_no_Kutsu", "address": "2237 Shimodakita, Amakusamachi, Amakusa, Japan", "rooms": "15 Rooms", "style": "Contemporary Classic & Quiet", "price": "No rooms available"}
+{
+  "title": "Gosoku_no_Kutsu",
+  "address": "2237 Shimodakita, Amakusamachi, Amakusa, Japan",
+  "rooms": "15 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181072.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181073.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181074.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181075.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181076.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181077.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181078.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181079.jpg"
+  ],
+  "price": "No rooms available"
+}

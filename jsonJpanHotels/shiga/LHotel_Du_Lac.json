@@ -1,1 +1,19 @@
-{"title": "LHotel_Du_Lac", "address": "2064 Oura Nishiazai-cho, Nagahama, Japan", "rooms": "15 Rooms", "style": "Contemporary Classic & Secluded", "price": "On request only"}
+{
+  "title": "LHotel_Du_Lac",
+  "address": "2064 Oura Nishiazai-cho, Nagahama, Japan",
+  "rooms": "15 Rooms",
+  "style": "Contemporary Classic & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181712.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181713.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181714.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181715.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181716.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181717.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181718.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181719.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181720.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181721.jpg"
+  ],
+  "price": "On request only"
+}

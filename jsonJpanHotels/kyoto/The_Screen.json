@@ -1,1 +1,17 @@
-{"title": "The_Screen", "address": "640-1 Shimogoryomaecho, Nakagyo-ku, Kyoto Prefecture, Japan", "rooms": "13 Rooms", "style": "Modern Design & Quiet", "price": "€203"}
+{
+  "title": "The_Screen",
+  "address": "640-1 Shimogoryomaecho, Nakagyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "13 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096499.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096500.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096501.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096502.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096503.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096504.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096505.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096506.jpg"
+  ],
+  "price": "€203"
+}

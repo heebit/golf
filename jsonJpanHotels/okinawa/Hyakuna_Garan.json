@@ -1,1 +1,16 @@
-{"title": "Hyakuna_Garan", "address": "1299-1 Yamashitahara, Hyakuna, Tamagusuku, Nanjo, Japan", "rooms": "18 Rooms", "style": "Contemporary Classic & Quiet", "price": "€492"}
+{
+  "title": "Hyakuna_Garan",
+  "address": "1299-1 Yamashitahara, Hyakuna, Tamagusuku, Nanjo, Japan",
+  "rooms": "18 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081040.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081041.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081042.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081043.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081044.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081045.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1081046.jpg"
+  ],
+  "price": "€492"
+}

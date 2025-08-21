@@ -1,1 +1,19 @@
-{"title": "voco_Osaka_Central", "address": "1-7-1 Kyomachibori, Nishi-ku, Osaka, Japan", "rooms": "191 Rooms", "style": "Modern Design & Lively", "price": "No rooms available"}
+{
+  "title": "voco_Osaka_Central",
+  "address": "1-7-1 Kyomachibori, Nishi-ku, Osaka, Japan",
+  "rooms": "191 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367220.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367219.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367222.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367226.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367223.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367225.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367227.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367224.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367228.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367221.jpg"
+  ],
+  "price": "No rooms available"
+}

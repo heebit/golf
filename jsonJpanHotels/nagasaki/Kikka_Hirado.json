@@ -1,1 +1,16 @@
-{"title": "Kikka_Hirado", "address": "長崎県平戸市明の川内町字梅屋敷３２３－２, Hirado, Japan", "rooms": "5 Rooms", "style": "Traditional Elegance & Secluded", "price": "€474"}
+{
+  "title": "Kikka_Hirado",
+  "address": "長崎県平戸市明の川内町字梅屋敷３２３－２, Hirado, Japan",
+  "rooms": "5 Rooms",
+  "style": "Traditional Elegance & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477454.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477455.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477456.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477457.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477458.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477459.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477460.jpg"
+  ],
+  "price": "€474"
+}

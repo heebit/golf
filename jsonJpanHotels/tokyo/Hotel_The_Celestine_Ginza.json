@@ -1,1 +1,17 @@
-{"title": "Hotel_The_Celestine_Ginza", "address": "8-4-22 Ginza, Chuo-ku, Tokyo, Japan", "rooms": "104 Rooms", "style": "Contemporary Classic & Lively", "price": "€324"}
+{
+  "title": "Hotel_The_Celestine_Ginza",
+  "address": "8-4-22 Ginza, Chuo-ku, Tokyo, Japan",
+  "rooms": "104 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079775.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079776.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079777.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079778.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079783.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079779.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079781.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079782.jpg"
+  ],
+  "price": "€324"
+}

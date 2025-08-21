@@ -1,1 +1,20 @@
-{"title": "Park_Hyatt_Kyoto", "address": "360 Masuyacho, Higashiyama-ku, Kyoto Prefecture, Japan", "rooms": "70 Rooms", "style": "Contemporary Classic & Quiet", "price": "€1,050"}
+{
+  "title": "Park_Hyatt_Kyoto",
+  "address": "360 Masuyacho, Higashiyama-ku, Kyoto Prefecture, Japan",
+  "rooms": "70 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103621.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103622.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103623.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103624.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103625.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103626.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103627.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103628.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103629.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103630.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1103631.jpg"
+  ],
+  "price": "€1,050"
+}

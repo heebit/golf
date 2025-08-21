@@ -1,1 +1,21 @@
-{"title": "The_Hiramatsu_Hotels__Resorts_Sengokuhara", "address": "1245-337 Sengokuhara, Hakonemachi, Ashigarashimo-gun, Japan", "rooms": "20 Rooms", "style": "Modern Design & Lively", "price": "€770"}
+{
+  "title": "The_Hiramatsu_Hotels__Resorts_Sengokuhara",
+  "address": "1245-337 Sengokuhara, Hakonemachi, Ashigarashimo-gun, Japan",
+  "rooms": "20 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370354.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370362.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370363.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370364.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370355.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370356.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370358.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370365.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370357.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370359.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370366.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1370361.jpg"
+  ],
+  "price": "€770"
+}

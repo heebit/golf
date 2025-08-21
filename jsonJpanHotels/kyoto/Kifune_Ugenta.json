@@ -1,1 +1,22 @@
-{"title": "Kifune_Ugenta", "address": "76 Kurama Kibunecho, Sakyo-ku, Kyoto Prefecture, Japan", "rooms": "2 Rooms", "style": "Traditional Elegance & Secluded", "price": "On request only"}
+{
+  "title": "Kifune_Ugenta",
+  "address": "76 Kurama Kibunecho, Sakyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "2 Rooms",
+  "style": "Traditional Elegance & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096294.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096295.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079129.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096296.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096297.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096298.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096299.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096300.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096301.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1079130.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096302.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096303.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1096304.jpg"
+  ],
+  "price": "On request only"
+}

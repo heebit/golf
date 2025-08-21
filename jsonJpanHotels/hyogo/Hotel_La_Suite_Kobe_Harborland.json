@@ -1,1 +1,20 @@
-{"title": "Hotel_La_Suite_Kobe_Harborland", "address": "7-2 Hatobacho, Chuo-ku, Kobe, Japan", "rooms": "70 Rooms", "style": "Contemporary Classic & Lively", "price": "€322"}
+{
+  "title": "Hotel_La_Suite_Kobe_Harborland",
+  "address": "7-2 Hatobacho, Chuo-ku, Kobe, Japan",
+  "rooms": "70 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181740.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181741.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181742.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181743.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181744.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181745.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181746.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181747.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181748.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181749.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181750.jpg"
+  ],
+  "price": "€322"
+}

@@ -1,1 +1,17 @@
-{"title": "InterContinental_Yokohama_Pier_8", "address": "2-14-1 Shinko, Naka-ku, Yokohama, Japan", "rooms": "173 Rooms", "style": "Modern Design & Happening", "price": "€219"}
+{
+  "title": "InterContinental_Yokohama_Pier_8",
+  "address": "2-14-1 Shinko, Naka-ku, Yokohama, Japan",
+  "rooms": "173 Rooms",
+  "style": "Modern Design & Happening",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351532.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351533.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351534.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351535.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351536.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351537.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351538.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1351531.jpg"
+  ],
+  "price": "€219"
+}

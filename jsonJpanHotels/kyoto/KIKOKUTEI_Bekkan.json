@@ -1,1 +1,19 @@
-{"title": "KIKOKUTEI_Bekkan", "address": "317 Uchikoshicho, Shimogyo-ku, Kyoto Prefecture, Japan", "rooms": "13 Rooms", "style": "Modern Design & Quiet", "price": "€169"}
+{
+  "title": "KIKOKUTEI_Bekkan",
+  "address": "317 Uchikoshicho, Shimogyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "13 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326842.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326843.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326845.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326846.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326844.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326847.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326848.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326849.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326850.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1326841.jpg"
+  ],
+  "price": "€169"
+}

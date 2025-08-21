@@ -1,1 +1,17 @@
-{"title": "eph_KYOTO", "address": "5-6 Higashikujo Nishisannocho, Minami-ku, Kyoto Prefecture, Japan", "rooms": "19 Rooms", "style": "Modern Design & Lively", "price": "€120"}
+{
+  "title": "eph_KYOTO",
+  "address": "5-6 Higashikujo Nishisannocho, Minami-ku, Kyoto Prefecture, Japan",
+  "rooms": "19 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255769.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255770.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255771.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255772.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255773.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255774.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255775.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255776.jpg"
+  ],
+  "price": "€120"
+}

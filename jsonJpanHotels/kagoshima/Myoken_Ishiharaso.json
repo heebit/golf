@@ -1,1 +1,19 @@
-{"title": "Myoken_Ishiharaso", "address": "4376, Kareigawa, Hayato-cho, Kirishima, Japan", "rooms": "15 Rooms", "style": "Modern Design & Quiet", "price": "On request only"}
+{
+  "title": "Myoken_Ishiharaso",
+  "address": "4376, Kareigawa, Hayato-cho, Kirishima, Japan",
+  "rooms": "15 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500486.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500487.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500488.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500489.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500490.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500491.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500492.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500493.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500494.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1500495.jpg"
+  ],
+  "price": "On request only"
+}

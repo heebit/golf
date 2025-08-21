@@ -1,1 +1,15 @@
-{"title": "Terrace_Midoubaru", "address": "5 Hotta, Beppu, Japan", "rooms": "14 Rooms", "style": "Modern Design & Quiet", "price": "€189"}
+{
+  "title": "Terrace_Midoubaru",
+  "address": "5 Hotta, Beppu, Japan",
+  "rooms": "14 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310911.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310912.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310913.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310914.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310915.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1310916.jpg"
+  ],
+  "price": "€189"
+}

@@ -1,1 +1,20 @@
-{"title": "Four_Seasons_Hotel_Tokyo_at_Otemachi", "address": "1-2-1 Otemachi, Chiyoda-ku, Tokyo, Japan", "rooms": "190 Rooms", "style": "Modern Design & Lively", "price": "No rooms available"}
+{
+  "title": "Four_Seasons_Hotel_Tokyo_at_Otemachi",
+  "address": "1-2-1 Otemachi, Chiyoda-ku, Tokyo, Japan",
+  "rooms": "190 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337059.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337060.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337061.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337062.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337063.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337064.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337065.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337066.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337067.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337068.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337069.jpg"
+  ],
+  "price": "No rooms available"
+}

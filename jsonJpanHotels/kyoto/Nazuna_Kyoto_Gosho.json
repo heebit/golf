@@ -1,1 +1,16 @@
-{"title": "Nazuna_Kyoto_Gosho", "address": "255-1 Hanatatecho, Nakagyo-ku, Kyoto Prefecture, Japan", "rooms": "7 Rooms", "style": "Modern Design & Quiet", "price": "€1,094"}
+{
+  "title": "Nazuna_Kyoto_Gosho",
+  "address": "255-1 Hanatatecho, Nakagyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "7 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337000.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337001.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337002.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337003.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337004.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337005.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1337006.jpg"
+  ],
+  "price": "€1,094"
+}

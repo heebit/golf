@@ -1,1 +1,18 @@
-{"title": "Nasu_Mukunone", "address": "2294-3 Takakuotsu, Nasu, Japan", "rooms": "15 Rooms", "style": "Modern Design & Quiet", "price": "No rooms available"}
+{
+  "title": "Nasu_Mukunone",
+  "address": "2294-3 Takakuotsu, Nasu, Japan",
+  "rooms": "15 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459154.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459155.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459156.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459157.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459158.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459159.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459160.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459161.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1459162.jpg"
+  ],
+  "price": "No rooms available"
+}

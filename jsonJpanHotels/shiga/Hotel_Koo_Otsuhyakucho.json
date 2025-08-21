@@ -1,1 +1,18 @@
-{"title": "Hotel_Koo_Otsuhyakucho", "address": "1-2-6 Chuo, Otsu-shi, Kansai, Otsu, Japan", "rooms": "13 Rooms", "style": "Modern Design & Quiet", "price": "€121"}
+{
+  "title": "Hotel_Koo_Otsuhyakucho",
+  "address": "1-2-6 Chuo, Otsu-shi, Kansai, Otsu, Japan",
+  "rooms": "13 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496579.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496580.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496581.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496582.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496583.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496584.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496585.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496586.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1496587.jpg"
+  ],
+  "price": "€121"
+}

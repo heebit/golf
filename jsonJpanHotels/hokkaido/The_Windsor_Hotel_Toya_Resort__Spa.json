@@ -1,1 +1,12 @@
-{"title": "The_Windsor_Hotel_Toya_Resort__Spa", "address": "Shimizu Toyako-cho, Shimizu, Japan", "rooms": "378 Rooms", "style": "Contemporary Classic & Lively", "price": "€240"}
+{
+  "title": "The_Windsor_Hotel_Toya_Resort__Spa",
+  "address": "Shimizu Toyako-cho, Shimizu, Japan",
+  "rooms": "378 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1106217.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1106218.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1106219.jpg"
+  ],
+  "price": "€240"
+}

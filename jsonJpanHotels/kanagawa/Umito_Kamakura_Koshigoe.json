@@ -1,1 +1,16 @@
-{"title": "Umito_Kamakura_Koshigoe", "address": "腰越３丁目１２−１６, Kamakura, Japan", "rooms": "2 Rooms", "style": "Modern Design & Lively", "price": "On request only"}
+{
+  "title": "Umito_Kamakura_Koshigoe",
+  "address": "腰越３丁目１２−１６, Kamakura, Japan",
+  "rooms": "2 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477144.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477145.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477146.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477147.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477148.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477149.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477150.jpg"
+  ],
+  "price": "On request only"
+}

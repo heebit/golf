@@ -1,1 +1,19 @@
-{"title": "Sekitei", "address": "3-5-27 Miyahama Onsen, Hatsukaichi, Japan", "rooms": "12 Rooms", "style": "Contemporary Classic & Quiet", "price": "No rooms available"}
+{
+  "title": "Sekitei",
+  "address": "3-5-27 Miyahama Onsen, Hatsukaichi, Japan",
+  "rooms": "12 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417403.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417404.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417405.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417406.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417407.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417408.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417409.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417410.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417411.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417412.jpg"
+  ],
+  "price": "No rooms available"
+}

@@ -1,1 +1,26 @@
-{"title": "The_Hotel_Higashiyama_by_Kyoto_Tokyu_Hotel_A_Pan_Pacific_Hotel", "address": "Higashiyama-ku, Sanjo-dori, Shirakawabashi, Higashi-iru, 3 Chome, Ebisucho 175-2, Kyoto, Japan", "rooms": "168 Rooms", "style": "Modern Design & Lively", "price": "€183"}
+{
+  "title": "The_Hotel_Higashiyama_by_Kyoto_Tokyu_Hotel_A_Pan_Pacific_Hotel",
+  "address": "Higashiyama-ku, Sanjo-dori, Shirakawabashi, Higashi-iru, 3 Chome, Ebisucho 175-2, Kyoto, Japan",
+  "rooms": "168 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433358.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433352.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433365.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433354.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433357.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433355.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433351.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433367.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433356.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433359.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433360.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433362.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433363.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433366.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433364.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433361.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1433353.jpg"
+  ],
+  "price": "€183"
+}

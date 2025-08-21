@@ -1,1 +1,20 @@
-{"title": "Glamday_Style_Hotel__Resort_Okinawa_Yomitan", "address": "571-1 Aza Senaha, Yomitanson, Nakagami-gun, Yomitan, Japan", "rooms": "54 Rooms", "style": "Modern Design & Lively", "price": "€433"}
+{
+  "title": "Glamday_Style_Hotel__Resort_Okinawa_Yomitan",
+  "address": "571-1 Aza Senaha, Yomitanson, Nakagami-gun, Yomitan, Japan",
+  "rooms": "54 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506070.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506069.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506074.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506071.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506072.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506073.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506075.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506076.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506078.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506077.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1506079.jpg"
+  ],
+  "price": "€433"
+}

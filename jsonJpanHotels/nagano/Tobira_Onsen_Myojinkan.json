@@ -1,1 +1,16 @@
-{"title": "Tobira_Onsen_Myojinkan", "address": "8967 Iriyamabe, Matsumoto, Japan", "rooms": "43 Rooms", "style": "Traditional Elegance & Quiet", "price": "€652"}
+{
+  "title": "Tobira_Onsen_Myojinkan",
+  "address": "8967 Iriyamabe, Matsumoto, Japan",
+  "rooms": "43 Rooms",
+  "style": "Traditional Elegance & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1376719.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181104.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181105.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181106.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181107.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181108.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181109.jpg"
+  ],
+  "price": "€652"
+}

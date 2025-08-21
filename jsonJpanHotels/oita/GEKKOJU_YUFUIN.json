@@ -1,1 +1,19 @@
-{"title": "GEKKOJU_YUFUIN", "address": "2106-8 Kawakami, Yufuin-cho, Yufu, Japan", "rooms": "5 Rooms", "style": "Modern Design & Quiet", "price": "No rooms available"}
+{
+  "title": "GEKKOJU_YUFUIN",
+  "address": "2106-8 Kawakami, Yufuin-cho, Yufu, Japan",
+  "rooms": "5 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398970.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398968.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398971.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398969.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398972.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398973.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398974.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398975.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398976.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1398977.jpg"
+  ],
+  "price": "No rooms available"
+}

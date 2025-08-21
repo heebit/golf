@@ -1,1 +1,17 @@
-{"title": "Kyo_no_Ondokoro_Kamanza_Nijo_2", "address": "690-2 Kamimatsuyacho, Nakagyo-ku, Kyoto Prefecture, Japan", "rooms": "1 Rooms", "style": "Modern Design & Quiet", "price": "On request only"}
+{
+  "title": "Kyo_no_Ondokoro_Kamanza_Nijo_2",
+  "address": "690-2 Kamimatsuyacho, Nakagyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "1 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342415.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342416.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342417.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342418.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342420.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342421.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342422.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342419.jpg"
+  ],
+  "price": "On request only"
+}

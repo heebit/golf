@@ -1,1 +1,19 @@
-{"title": "Private_Resort_Hotel_Renn", "address": "422-2 Tomori, Gusukube, Miyakojima, Japan", "rooms": "3 Rooms", "style": "Modern Design & Quiet", "price": "€134"}
+{
+  "title": "Private_Resort_Hotel_Renn",
+  "address": "422-2 Tomori, Gusukube, Miyakojima, Japan",
+  "rooms": "3 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339444.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339445.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339446.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339447.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339448.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339449.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339450.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339451.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339452.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1339453.jpg"
+  ],
+  "price": "€134"
+}

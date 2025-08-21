@@ -1,1 +1,17 @@
-{"title": "Nasu-Onsen_Shinshun_no_Kago_Hewitt_Resort", "address": "Yumoto 206-730, Nasu, Japan", "rooms": "20 Rooms", "style": "Modern Design & Lively", "price": "€532"}
+{
+  "title": "Nasu-Onsen_Shinshun_no_Kago_Hewitt_Resort",
+  "address": "Yumoto 206-730, Nasu, Japan",
+  "rooms": "20 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477506.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477507.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477508.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477509.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477510.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477511.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477512.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477513.jpg"
+  ],
+  "price": "€532"
+}

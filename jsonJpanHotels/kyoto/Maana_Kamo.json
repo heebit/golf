@@ -1,1 +1,17 @@
-{"title": "Maana_Kamo", "address": "481-3 Nishitachibanacho, Higashiyama-ku, Kyoto Prefecture, Japan", "rooms": "1 Rooms", "style": "Modern Design & Quiet", "price": "No rooms available"}
+{
+  "title": "Maana_Kamo",
+  "address": "481-3 Nishitachibanacho, Higashiyama-ku, Kyoto Prefecture, Japan",
+  "rooms": "1 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342432.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342433.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342435.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342523.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342437.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342522.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342521.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342520.jpg"
+  ],
+  "price": "No rooms available"
+}

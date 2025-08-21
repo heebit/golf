@@ -1,1 +1,17 @@
-{"title": "Emil_Nakijin", "address": "国頭郡今帰仁村諸志 2031-139, Shoshi, Japan", "rooms": "5 Rooms", "style": "Cutting-Edge & Quiet", "price": "No rooms available"}
+{
+  "title": "Emil_Nakijin",
+  "address": "国頭郡今帰仁村諸志 2031-139, Shoshi, Japan",
+  "rooms": "5 Rooms",
+  "style": "Cutting-Edge & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458149.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458151.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458152.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458153.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458154.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458156.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458155.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458150.jpg"
+  ],
+  "price": "No rooms available"
+}

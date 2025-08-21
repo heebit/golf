@@ -1,1 +1,17 @@
-{"title": "Shima_Kanko_Hotel_The_Bay_Suites", "address": "731 shimmei, Agocho, Shima, Japan", "rooms": "50 Rooms", "style": "Contemporary Classic & Quiet", "price": "€418"}
+{
+  "title": "Shima_Kanko_Hotel_The_Bay_Suites",
+  "address": "731 shimmei, Agocho, Shima, Japan",
+  "rooms": "50 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354577.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354578.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354579.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354580.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354581.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354582.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354583.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1354584.jpg"
+  ],
+  "price": "€418"
+}

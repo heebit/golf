@@ -1,1 +1,19 @@
-{"title": "NOT_A_HOTEL_FUKUOKA", "address": "2 Chome-3-34 Omiya, Chuo Ward, Fukuoka, Japan", "rooms": "8 Rooms", "style": "Modern Design & Lively", "price": "No rooms available"}
+{
+  "title": "NOT_A_HOTEL_FUKUOKA",
+  "address": "2 Chome-3-34 Omiya, Chuo Ward, Fukuoka, Japan",
+  "rooms": "8 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458240.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458241.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458242.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458243.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458244.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458245.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458246.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458247.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458248.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1458249.jpg"
+  ],
+  "price": "No rooms available"
+}

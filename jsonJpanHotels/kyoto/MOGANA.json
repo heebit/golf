@@ -1,1 +1,15 @@
-{"title": "MOGANA", "address": "450 Tsuboyacho, Nakagyo-ku, Kyoto Prefecture, Japan", "rooms": "23 Rooms", "style": "Cutting-Edge & Lively", "price": "€261"}
+{
+  "title": "MOGANA",
+  "address": "450 Tsuboyacho, Nakagyo-ku, Kyoto Prefecture, Japan",
+  "rooms": "23 Rooms",
+  "style": "Cutting-Edge & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255764.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1359014.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255765.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255766.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255767.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255768.jpg"
+  ],
+  "price": "€261"
+}

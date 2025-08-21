@@ -1,1 +1,19 @@
-{"title": "Hyatt_Regency_Yokohama", "address": "280-2 Yamashitacho, Naka-ku, Yokohama, Japan", "rooms": "315 Rooms", "style": "Modern Design & Lively", "price": "€134"}
+{
+  "title": "Hyatt_Regency_Yokohama",
+  "address": "280-2 Yamashitacho, Naka-ku, Yokohama, Japan",
+  "rooms": "315 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367888.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367889.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367898.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367891.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367892.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367893.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367894.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367896.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367897.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1367895.jpg"
+  ],
+  "price": "€134"
+}

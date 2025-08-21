@@ -1,1 +1,16 @@
-{"title": "Hotel_New_Awaji_Villa_Rakuen", "address": "20 Orodani, Sumoto, Japan", "rooms": "41 Rooms", "style": "Modern Design & Quiet", "price": "On request only"}
+{
+  "title": "Hotel_New_Awaji_Villa_Rakuen",
+  "address": "20 Orodani, Sumoto, Japan",
+  "rooms": "41 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181548.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181549.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181550.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181551.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181552.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181553.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1181554.jpg"
+  ],
+  "price": "On request only"
+}

@@ -1,1 +1,18 @@
-{"title": "Suigan", "address": "1 Chome-86 Jozankeionsennishi, Minami Ward, Jozankei, Japan", "rooms": "7 Rooms", "style": "Modern Design & Lively", "price": "€386"}
+{
+  "title": "Suigan",
+  "address": "1 Chome-86 Jozankeionsennishi, Minami Ward, Jozankei, Japan",
+  "rooms": "7 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473944.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473945.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473946.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473947.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473948.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473949.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473950.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473951.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1473952.jpg"
+  ],
+  "price": "€386"
+}

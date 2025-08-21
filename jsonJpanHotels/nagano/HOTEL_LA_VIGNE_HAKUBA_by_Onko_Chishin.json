@@ -1,1 +1,17 @@
-{"title": "HOTEL_LA_VIGNE_HAKUBA_by_Onko_Chishin", "address": "Hokujo Shinden 3020-1116, Hakuba, Japan", "rooms": "38 Rooms", "style": "Modern Design & Lively", "price": "On request only"}
+{
+  "title": "HOTEL_LA_VIGNE_HAKUBA_by_Onko_Chishin",
+  "address": "Hokujo Shinden 3020-1116, Hakuba, Japan",
+  "rooms": "38 Rooms",
+  "style": "Modern Design & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477433.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477434.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477435.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477436.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477437.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477438.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477439.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477440.jpg"
+  ],
+  "price": "On request only"
+}

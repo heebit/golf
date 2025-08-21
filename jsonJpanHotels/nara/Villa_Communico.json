@@ -1,1 +1,15 @@
-{"title": "Villa_Communico", "address": "雑司町４８６−５, Nara, Japan", "rooms": "5 Rooms", "style": "Modern Design & Quiet", "price": "No rooms available"}
+{
+  "title": "Villa_Communico",
+  "address": "雑司町４８６−５, Nara, Japan",
+  "rooms": "5 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477165.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477166.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477167.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477168.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477169.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1477170.jpg"
+  ],
+  "price": "No rooms available"
+}

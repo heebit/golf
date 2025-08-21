@@ -1,1 +1,17 @@
-{"title": "Four_Seasons_Hotel_Tokyo_at_Marunouchi", "address": "Pacific Century Place Marunouchi, 1-11-1 Marunouchi, Chiyoda-ku, Tokyo, Japan", "rooms": "57 Rooms", "style": "Modern Design & Quiet", "price": "No rooms available"}
+{
+  "title": "Four_Seasons_Hotel_Tokyo_at_Marunouchi",
+  "address": "Pacific Century Place Marunouchi, 1-11-1 Marunouchi, Chiyoda-ku, Tokyo, Japan",
+  "rooms": "57 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255326.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255327.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255328.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255329.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255330.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255331.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255332.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255333.jpg"
+  ],
+  "price": "No rooms available"
+}

@@ -1,1 +1,19 @@
-{"title": "The_Capitol_Hotel_Tokyu", "address": "2-10-3 Nagatacho, Chiyoda-ku, Tokyo, Japan", "rooms": "251 Rooms", "style": "Modern Design & Quiet", "price": "€589"}
+{
+  "title": "The_Capitol_Hotel_Tokyu",
+  "address": "2-10-3 Nagatacho, Chiyoda-ku, Tokyo, Japan",
+  "rooms": "251 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097866.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097869.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097868.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097867.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097870.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097871.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097872.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097873.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097874.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1097875.jpg"
+  ],
+  "price": "€589"
+}

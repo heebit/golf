@@ -1,1 +1,15 @@
-{"title": "Wanoi_Kakunodate", "address": "14 Nakasugazawa, Kakunodatemachi, Semboku, Japan", "rooms": "3 Rooms", "style": "Contemporary Classic & Quiet", "price": "€258"}
+{
+  "title": "Wanoi_Kakunodate",
+  "address": "14 Nakasugazawa, Kakunodatemachi, Semboku, Japan",
+  "rooms": "3 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342514.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342515.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342516.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342517.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342518.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342519.jpg"
+  ],
+  "price": "€258"
+}

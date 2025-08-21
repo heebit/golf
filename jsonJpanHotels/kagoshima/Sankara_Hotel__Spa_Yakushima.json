@@ -1,1 +1,16 @@
-{"title": "Sankara_Hotel__Spa_Yakushima", "address": "553 Haginoue, Mugio Kumage-gun, Yakushima, Japan", "rooms": "29 Rooms", "style": "Traditional Elegance & Secluded", "price": "€665"}
+{
+  "title": "Sankara_Hotel__Spa_Yakushima",
+  "address": "553 Haginoue, Mugio Kumage-gun, Yakushima, Japan",
+  "rooms": "29 Rooms",
+  "style": "Traditional Elegance & Secluded",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417165.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417166.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417167.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417168.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417169.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417170.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1417171.jpg"
+  ],
+  "price": "€665"
+}

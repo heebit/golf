@@ -1,1 +1,17 @@
-{"title": "Nohga_Hotel_Ueno_Tokyo", "address": "2-21-10 Higashiueno, Taito-ku, Tokyo, Japan", "rooms": "130 Rooms", "style": "Modern Design & Happening", "price": "€265"}
+{
+  "title": "Nohga_Hotel_Ueno_Tokyo",
+  "address": "2-21-10 Higashiueno, Taito-ku, Tokyo, Japan",
+  "rooms": "130 Rooms",
+  "style": "Modern Design & Happening",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255426.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255427.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255428.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255429.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255430.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255431.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255432.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1255433.jpg"
+  ],
+  "price": "€265"
+}

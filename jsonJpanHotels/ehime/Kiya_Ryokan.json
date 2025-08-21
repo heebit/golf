@@ -1,1 +1,16 @@
-{"title": "Kiya_Ryokan", "address": "2-8-2 Hommachiote, Uwajima, Japan", "rooms": "1 Rooms", "style": "Contemporary Classic & Quiet", "price": "On request only"}
+{
+  "title": "Kiya_Ryokan",
+  "address": "2-8-2 Hommachiote, Uwajima, Japan",
+  "rooms": "1 Rooms",
+  "style": "Contemporary Classic & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180303.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180304.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180305.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180306.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180307.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180308.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1180309.jpg"
+  ],
+  "price": "On request only"
+}

@@ -1,1 +1,19 @@
-{"title": "Shangri-La_Tokyo", "address": "Marunouchi Trust Tower Main, 1-8-3 Marunouchi, Chiyoda-ku, Tokyo, Japan", "rooms": "200 Rooms", "style": "Contemporary Classic & Lively", "price": "€823"}
+{
+  "title": "Shangri-La_Tokyo",
+  "address": "Marunouchi Trust Tower Main, 1-8-3 Marunouchi, Chiyoda-ku, Tokyo, Japan",
+  "rooms": "200 Rooms",
+  "style": "Contemporary Classic & Lively",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099263.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099262.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099264.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099265.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099266.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099267.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099268.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099269.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099270.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1099271.jpg"
+  ],
+  "price": "€823"
+}

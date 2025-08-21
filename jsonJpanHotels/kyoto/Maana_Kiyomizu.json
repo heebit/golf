@@ -1,1 +1,20 @@
-{"title": "Maana_Kiyomizu", "address": "427-18 Myohoin Maekawacho, Higashiyama-ku, Kyoto Prefecture, Japan", "rooms": "3 Rooms", "style": "Modern Design & Quiet", "price": "€540"}
+{
+  "title": "Maana_Kiyomizu",
+  "address": "427-18 Myohoin Maekawacho, Higashiyama-ku, Kyoto Prefecture, Japan",
+  "rooms": "3 Rooms",
+  "style": "Modern Design & Quiet",
+  "images": [
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342524.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342525.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342526.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342527.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342528.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342529.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342530.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342531.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342532.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342533.jpg",
+    "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1342534.jpg"
+  ],
+  "price": "€450"
+}
